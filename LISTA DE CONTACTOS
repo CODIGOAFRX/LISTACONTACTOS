@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<contactos>
+
+    <nombre>Pedro</nombre>
+    <apellido>Gomez</apellido>
+    <telefono>
+        <telefonofijo>950241544</telefonofijo>
+        <telefonomovil>685585342</telefonomovil>
+        <telefonotrabajo></telefonotrabajo>
+    </telefono>
+    <mail>pedrojgomezperez@gmail.com</mail>
+
+    <nombre>Raul</nombre>
+    <apellido>Gil</apellido>
+    <telefono>
+        <telefonofijo></telefonofijo>
+        <telefonomovil>666555444</telefonomovil>
+        <telefonotrabajo></telefonotrabajo>
+    </telefono>
+    <mail>raul@gmail.com</mail>
+ 
+    <nombre>Luis</nombre>
+    <apellido>Profe</apellido>
+    <telefono>
+        <telefonofijo>902654123</telefonofijo>
+        <telefonomovil>600152566</telefonomovil>
+        <telefonotrabajo></telefonotrabajo>
+    </telefono>
+    <mail>medac@gmail.com</mail>
+
+    <nombre>Marcos</nombre>
+    <apellido>Ramirez</apellido>
+    <telefono>
+        <telefonofijo>96666666</telefonofijo>
+        <telefonomovil>754321000</telefonomovil>
+        <telefonotrabajo>7777777</telefonotrabajo>
+    </telefono>
+    <mail>mmmmm@gmail.com</mail>
+
+    <nombre>Paco</nombre>
+    <apellido>Cuenca</apellido>
+    <telefono>
+        <telefonofijo>99999999</telefonofijo>
+        <telefonomovil>621563248</telefonomovil>
+        <telefonotrabajo>15200256</telefonotrabajo>
+    </telefono>
+    <mail>pacopaco@gmail.com</mail>
+
+</contactos>
